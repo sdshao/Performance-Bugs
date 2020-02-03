@@ -18,4 +18,24 @@ A study not like our type.
 - Root cause
 - Data size increases
 - Automatic detection
-5. 
+5. Security Versus Performance Bugs: A Case Study on Firefox
+- How fast are bugs fixed
+- Who fixes bugs
+- What are the characteristics of bug fixes
+6. Understanding and Detecting Real-World Performance Bugs
+- Root cause
+- How bugs are introduced
+- How bugs are triggered
+- Fix
+7. Understanding Database Performance Inefficiencies in Real-world Web Applications
+- Root cause
+- Fix
+- Performance improvement
+Although it discusses applications built on top of ORM frameworks, it will give the concrete corresponding sql queries.
+Should I mention time in the paper too?
+It also talks about the join operations
+8. Understanding Real-World Timeout Problems in Cloud Server Systems
+- Root cause
+- Impact
+- Diagnosability
+
