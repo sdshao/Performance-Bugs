@@ -1,0 +1,21 @@
+1. A Comprehensive Study on Real World Concurrency Bugs in Node.js
+- Root cause
+- Impacts
+- Bug manifestation
+- Fix strategies
+2. A Qualitative Study on Performance Bugs
+- Impact on the stakeholder
+- Context of the bug
+- Fix
+- Fix validation
+A study not like our type, but the bug selection method is interesting.
+3. Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study
+- Root cause
+- Bug Distribution
+- Fix Duration
+A study not like our type.
+4. How not to structure your database-backed web applications: a study of performance bugs in the wild
+- Root cause
+- Data size increases
+- Automatic detection
+5. 
