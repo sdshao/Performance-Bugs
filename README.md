@@ -1,15 +1,20 @@
 # Paper List
-01. Detecting Performance Anti-patterns for Applications Developed using Object-Relational Mapping
-02. Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code
-03. A Comprehensive Study on Real World Concurrency Bugs in Node.js
-04. A Qualitative Study on Performance Bugs
-05. Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study
-06. Security Versus Performance Bugs: A Case Study on Firefox
-07. How not to structure your database-backed web applications: a study of performance bugs in the wild
-08. PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE
-09. Security Versus Performance Bugs: A Case Study on Firefox
-10. Understanding and Detecting Real-World Performance Bugs
-11. Understanding Database Performance Inefficiencies in Real-world Web Applications
-12. Understanding Real-World Timeout Problems in Cloud Server Systems
-13. View-Centric Performance Optimization for Database-Backed Web Applications
-14. View-Driven Optimization of Database-Backed Web Applications
+- Detecting Performance Anti-patterns for Applications Developed using Object-Relational Mapping
+- Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code
+- PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE
+- View-Centric Performance Optimization for Database-Backed Web Applications
+- View-Driven Optimization of Database-Backed Web Applications
+- Study Papers
+    - A Comprehensive Study on Real World Concurrency Bugs in Node.js
+    - A Qualitative Study on Performance Bugs
+    - Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study
+    - Security Versus Performance Bugs: A Case Study on Firefox
+    - How not to structure your database-backed web applications: a study of performance bugs in the wild
+    -  Security Versus Performance Bugs: A Case Study on Firefox
+    -  Understanding and Detecting Real-World Performance Bugs
+    -  Understanding Database Performance Inefficiencies in Real-world Web Applications
+    -  Understanding Real-World Timeout Problems in Cloud Server Systems
+    - What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
+    - An Empirical Study of Operating Systems Errors
+    - An Empirical Study on Configuration Errors in Commercial and Open Source Systems
+    - Understanding Real-World Concurrency Bugs in Go

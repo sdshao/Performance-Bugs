@@ -1,0 +1,22 @@
+Motivation: improve page loading time
+Cost estimator: 
+1. A real testing workload, logging down execution time.
+2. Static estimation, not accurate.
+Optimization suggestion:
+1. Pagination.
+2. Asynchronous loading
+3. Approximation, probably count operation.
+4. Remove some contents.
+Interface design:
+1. Cost estimation heat map: dynamic profiling results and statically estimated results. Not describe how to determine the degree of the heat map.
+2. Optimization suggestion.
+Evaluation:
+1. How many opportunities does Panorama identify.
+2. How much performance benefits.
+3. Are alternate view designs worthwhile.
+4. How accurate is the Panorama estimator.
+
+Things are not clear to me:
+How are the estimation costs are sorted? How to determine the cost will go to low, middle or high category.
+The static cost estimation cost is not accurate, especially when the queries in the same page retrieves data from different tables.
+The relationship between cost estimation and optimization is not clear to me. To me, cost estimation is used as a reference to see if the optimization is needed. But it seems not the case in the paper.
